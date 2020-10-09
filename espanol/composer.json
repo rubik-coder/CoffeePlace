@@ -1,0 +1,21 @@
+{
+    "name": "kawschool/tienda-online",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+       
+        {
+            "name": "Cristian Cabrera",
+            "email": "crisscout6@gmail.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Kawschool\\":"src/"
+        }
+    }
+}
